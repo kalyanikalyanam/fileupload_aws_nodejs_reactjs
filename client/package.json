@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@uppy/core": "^1.18.0",
+    "@uppy/dashboard": "^1.19.0",
+    "@uppy/google-drive": "^1.6.0",
+    "@uppy/instagram": "^1.4.26",
+    "@uppy/react": "^1.11.7",
+    "@uppy/webcam": "^1.8.9",
+    "aws-amplify": "^3.3.27",
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
     "jquery": "^3.3.1",
@@ -10,11 +17,16 @@
     "qs": "^6.5.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-player": "^2.9.0",
     "react-redux": "^5.0.7",
+    "react-responsive": "^4.0.5",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.4",
     "redux": "^4.0.0",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "uppy": "^1.28.0",
+    "video-react": "^0.14.1",
+    "video.js": "^7.11.4"
   },
   "proxy": "http://localhost:5000",
   "scripts": {
